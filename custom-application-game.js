@@ -1,3 +1,5 @@
+//Scripted RestAPI will give you full controll over the api. It is on code's responsibility to create response. It work same as Import Set but more control then Import set
+
 //Better to use Import Set for create/update. It work with POST not other method are available. The API user must have import_transformer and staging table access roles.
 
 //Workflow -> Operations -> Workflow Operations Dashboard
