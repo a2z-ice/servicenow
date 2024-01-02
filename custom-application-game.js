@@ -19,6 +19,8 @@ function addSelf(){
 	if(date <= now){
 		current.setValue('released', true);
 	}
+	//To see server side log with source 'log_view_test' any string
+	gs.log('Here is the log you need to view', 'log_view_test');
 
 })(current, previous);
 
