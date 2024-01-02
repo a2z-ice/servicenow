@@ -1,4 +1,4 @@
-//Better to use Import Set for create/update. It work with POST not other method are available
+//Better to use Import Set for create/update. It work with POST not other method are available. The API user must have import_transformer and staging table access roles.
 
 //Workflow -> Operations -> Workflow Operations Dashboard
 //Workflow -> Live Workflow -> All Context
