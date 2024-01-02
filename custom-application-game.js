@@ -1,3 +1,5 @@
+//If the servicenow instance is a client of  RestAPIs then the user which is using the RestAPI message must have 'rest_service' role.
+
 //Scripted RestAPI will give you full controll over the api. It is on code's responsibility to create response. By scripted api you will be creating you own APIs in servicenow.
 
 //Better to use Import Set for create/update. It work with POST not other method are available. The API user must have import_transformer and staging table access roles.
