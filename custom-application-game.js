@@ -3,6 +3,7 @@
 //Workflow -> Workflow Editor
 //System Security ->  Users and Groups -> User or Groups or Roles
 // reports -> View/Run
+//To see the logs go to System Logs -> all (search with you source i.e. log_view_test)
 
 //--UI Action--
 
