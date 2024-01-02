@@ -2,7 +2,7 @@
 
 //Scripted RestAPI will give you full controll over the api. It is on code's responsibility to create response. By scripted api you will be creating you own APIs in servicenow.
 
-//Better to use Import Set for create/update. It work with POST not other method are available. The API user must have import_transformer and staging table access roles.
+//Better to use Import Set for create/update. It work with POST not other method are available. The API user must have import_transformer and staging table access roles. The stage table must extends 'Import Set Row'
 
 //Workflow -> Operations -> Workflow Operations Dashboard
 //Workflow -> Live Workflow -> All Context
