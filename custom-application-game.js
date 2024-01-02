@@ -1,3 +1,5 @@
+//Better to use Import Set for create/update. It work with POST not other method are available
+
 //Workflow -> Operations -> Workflow Operations Dashboard
 //Workflow -> Live Workflow -> All Context
 //Workflow -> Workflow Editor
